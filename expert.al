@@ -2,7 +2,7 @@ codeunit 50109 JsonTable
 {
 
     procedure Refresh();
-
+ 
     var
         // ALIssue: Record ALIssue;
         HttpClient: HttpClient;
